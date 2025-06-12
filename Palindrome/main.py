@@ -5,4 +5,3 @@ def palindrome(str):
         return False
 str=input("Enter a string: ")
 print(palindrome(str))
-#commit cheyyaledachesanu
